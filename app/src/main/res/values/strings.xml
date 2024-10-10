@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactManagement</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+</resources>
